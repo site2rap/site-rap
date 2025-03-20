@@ -1,0 +1,12 @@
+{
+  "name": "mundo-do-rap",
+  "version": "1.0.0",
+  "description": "Site sobre a cultura do rap brasileiro",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+} 
